@@ -1,0 +1,44 @@
+[2018-08-26 12:04:00] =======begin record========
+
+[2018-08-26 12:45:03] ====client: 180.115.29.123:2932====
+[2018-08-26 12:45:03] usrname and passwd ok.
+[2018-08-26 12:45:03] maybe peer closed.
+[2018-08-26 12:49:40] ====client: 180.115.29.123:3173====
+[2018-08-26 12:49:40] usrname and passwd ok.
+[2018-08-26 12:49:40] no found new ver.
+
+[2018-08-26 12:49:40] maybe peer closed.
+[2018-08-26 12:53:31] ====client: 180.115.29.123:3433====
+[2018-08-26 12:53:31] usrname and passwd ok.
+[2018-08-26 12:53:31] found new ver:1.0.0.2
+
+[2018-08-26 12:53:31] get new ver file: /home/zyg/fx_ngx_update_srv/k2p_conf/ver_file/1.0.0.2.tar.gz, offset: 0, file size: 198, send len: 198
+[2018-08-26 12:53:31] file transfer over.
+
+[2018-08-26 13:53:34] ====client: 180.115.29.123:1775====
+[2018-08-26 13:53:34] usrname and passwd ok.
+[2018-08-26 13:53:34] no found new ver.
+
+[2018-08-26 13:53:34] maybe peer closed.
+[2018-08-26 14:53:36] ====client: 180.115.29.123:5052====
+[2018-08-26 14:53:36] usrname and passwd ok.
+[2018-08-26 14:53:36] no found new ver.
+
+[2018-08-26 14:53:36] maybe peer closed.
+[2018-08-26 15:53:38] ====client: 180.115.28.203:14762====
+[2018-08-26 15:53:38] usrname and passwd ok.
+[2018-08-26 15:53:38] no found new ver.
+
+[2018-08-26 15:53:39] maybe peer closed.
+[2018-08-26 16:53:41] ====client: 180.115.28.203:14484====
+[2018-08-26 16:53:41] usrname and passwd ok.
+[2018-08-26 16:53:41] found new ver:1.0.0.2
+
+[2018-08-26 16:53:41] get new ver file: /home/zyg/fx_ngx_update_srv/k2p_conf/ver_file/1.0.0.2.tar.gz, offset: 0, file size: 198, send len: 198
+[2018-08-26 16:53:41] file transfer over.
+
+[2018-08-26 17:53:43] ====client: 180.115.28.203:17173====
+[2018-08-26 17:53:43] usrname and passwd ok.
+[2018-08-26 17:53:43] no found new ver.
+
+[2018-08-26 17:53:43] maybe peer closed.
